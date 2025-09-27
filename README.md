@@ -10,7 +10,7 @@ The purpose of this repository is to provide a basic, self-contained project str
 
 This repository includes the following files:
 
-- `index.html`: A sample HTML5 page with various common tags and a basic structure[7].
+- `index.html`: A sample HTML5 page with various common tags and a basic structure.
 - `README.md`: This file, which provides an overview of the project.
 
 ## Usage
@@ -19,9 +19,9 @@ To view the sample webpage, follow these steps:
 
 1.  Clone this repository to your local machine.
 2.  Navigate to the repository's directory.
-3.  Open the `index.html` file in any modern web browser (like Chrome, Firefox, or Safari)[7].
+3.  Open the `index.html` file in any modern web browser (like Chrome, Firefox, or Safari).
 
-You can also use this file to test web servers or HTML validation tools[11].
+You can also use this file to test web servers or HTML validation tools.
 
 ## Contributing
 
